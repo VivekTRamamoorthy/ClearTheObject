@@ -1,7 +1,7 @@
 # ClearTheObject
 A simulator for the problem: 
 
-Find the velocity of a projectile `V` to clear the object, given `L`, `R`, and $\theta$.
+Find the minimum velocity of a projectile `V` to clear the object, given `L`, `R`, and `g`.
 
 <img src="clear_the_object.jpeg" alt="drawing" width="400"/>
 
